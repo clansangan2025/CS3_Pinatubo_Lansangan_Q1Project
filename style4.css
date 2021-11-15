@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(210, 228, 184);
+    height: 500px;
+}
+
+body p{
+text-align: center;
+color:rgb(117, 35, 223);
+font-family: 'Quantico', sans-serif;
+
+}
+
+header{
+    background-color: rgb(247, 234, 201);
+    height: 90px;
+    background-image: url('https://payload.cargocollective.com/1/0/808/7372593/BlackYellow_detail.jpg');
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(44, 94, 97);
+    margin-top: 0px;
+    font-family: 'Righteous', cursive;
+}
+
+h2{
+    background-color: rgba(205, 238, 88, 0.699);
+    text-align: center;
+    height: 40px;
+    color: rgb(74, 114, 146);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+
+
+}
+
+
+
+footer{
+    
+    height: 30px;
+    background-color: rgba(112, 128, 144, 0.747);
+    text-align: center;
+    font-family: 'News Cycle', sans-serif;
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+nav{
+    margin-top: 50px;
+    background-color: rgba(70, 131, 180, 0.308);
+    height: 35px;
+    
+}
+
+nav a {
+    padding-left: 10px;  
+    padding-right: 10px;
+    font-family: 'Quantico', sans-serif;
+    color: whitesmoke;
+    text-decoration: none;
+} 
+
